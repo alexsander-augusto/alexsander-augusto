@@ -1,12 +1,15 @@
-👋 Hi here! 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexsander Augusto</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-Thanks for stopping by, this is Alexsander, a developer student in brazil. I'm currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT. Thanks again for visiting, have a great day. 🤗
+- Obrigado pela visita. Tenham um ótimo dia. 🔥
 <hr>
 <h2>🖥️ - Estudando:</h2>
    <ul>
    <li>HTML</li>
    <li>CSS</li>
    <li>Javascript</li>
+   <li>React</li>
 </ul>
 <hr>
 <div align="center">
