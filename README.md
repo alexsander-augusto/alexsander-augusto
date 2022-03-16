@@ -7,7 +7,7 @@
    <li>HTML</li>
    <li>CSS</li>
    <li>Javascript</li>
-   <li>React</li>
+   <li>ReactJS</li>
 </ul>
 <hr>
 <div align="center">
