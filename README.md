@@ -6,6 +6,7 @@
    <ul>
    <li>HTML</li>
    <li>CSS</li>
+   <li>GIT</li>
    <li>Javascript</li>
    <li>ReactJS</li>
 </ul>
